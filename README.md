@@ -37,7 +37,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## Contact
 
-If you have any questions or suggestions, feel free to reach out to [ujjawaljoshi07@gmail.com]. 
+If you have any questions or suggestions, feel free to reach out to ujjawaljoshi07@gmail.com. 
 
 Happy coding! 🚀
 
